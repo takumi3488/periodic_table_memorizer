@@ -3,18 +3,8 @@
 ## リンク
 
 - [GitHub](https://github.com/takumi3488/periodic_table_memorizer)
-- [replit](https://replit.com/@TakumiMori/Zhou-Qi-Biao-Jue-eruyatu?v=1)
 
 ## 使い方
-
-### replit上で使う場合
-- RUNを押せば覚えられます
-- 解答履歴を保存したい場合は、必ずForkして使ってください
-  - replitのRubyはデフォルトでは日本語非対応なので、事前に設定が必要です。
-  - サイドバーから`Secrets`を選択し、keyに`RUBYOPT`、valueに`-EUTF-8`を入力し、`Add new secret`を押して追加してから使ってください
-
-### ローカルで使う場合
-
 - Rubyがインストールされている必要があります
   - バージョン2.7.4以降を推奨します
 - [GitHub](https://github.com/takumi3488/periodic_table_memorizer)からダウンロードし、periodic_table_memorizerフォルダ内で`ruby main.rb`で実行できます
