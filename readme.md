@@ -8,4 +8,4 @@
 
 ## 権利関係
 - symbol_table.pngは[Wikipedia](https://ja.wikipedia.org/wiki/%E5%85%83%E7%B4%A0%E3%81%AE%E4%B8%80%E8%A6%A7)からの引用です。
-- その他のファイルはすべて[MIT License](https://replit.com/@TakumiMori/periodic-table#LICENSE)とします。
+- その他のファイルはすべて[MIT License](https://github.com/takumi3488/periodic_table_memorizer/readme.md)とします。
